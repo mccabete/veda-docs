@@ -21,3 +21,4 @@ jupyterlab
 geopandas
 mapclassify
 owslib
+s3fs
